@@ -1,6 +1,6 @@
 # Ruby Doobie TCM Board (Eric ↔ Jess)
 
-_Last updated: 2026-02-14 22:44 CST_
+_Last updated: 2026-02-15 16:48 CST_
 
 ## This Week (Schedule)
 - **Mon Feb 16 @ 11:10 PM** — Depart Marco Polo Airport ➜ Charles de Gaulle (overnight hop, local departure time)
@@ -10,8 +10,12 @@ _Last updated: 2026-02-14 22:44 CST_
 _Add anything coming up this week (travel, visitors, projects) and I’ll keep it synced here._
 
 ## Shared To-Dos
+- □ Paint bathroom (mirrors Eric’s board)
+- □ Hang bathroom shelves (mirrors Eric’s board)
+- □ Confirm bathroom faucet replacement needed (mirrors Eric’s board)
+- □ Install kitchen undercabinet lighting (mirrors Eric’s board)
 - □ Fix door hinges (mirrors Eric’s board)
-- □ Improve guest bathroom threshold (mirrors Eric’s board)
+- □ Smooth guest bathroom threshold (mirrors Eric’s board)
 - □ Install hotel-style partial-open door latch on the front door (mirrors Eric’s board)
 - □ Tile guest bathroom backsplash (mirrors Eric’s board)
 - □ Replace laundry door (mirrors Eric’s board)
