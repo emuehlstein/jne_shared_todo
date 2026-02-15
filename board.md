@@ -1,6 +1,6 @@
 # Ruby Doobie TCM Board (Eric ↔ Jess)
 
-_Last updated: 2026-02-14 21:58 CST_
+_Last updated: 2026-02-14 22:44 CST_
 
 ## This Week (Schedule)
 - **Mon Feb 16 @ 11:10 PM** — Depart Marco Polo Airport ➜ Charles de Gaulle (overnight hop, local departure time)
@@ -16,6 +16,9 @@ _Add anything coming up this week (travel, visitors, projects) and I’ll keep i
 - □ Tile guest bathroom backsplash (mirrors Eric’s board)
 - □ Replace laundry door (mirrors Eric’s board)
 - □ Replace bedroom windows (mirrors Eric’s board)
+- □ Replace toilet guts (mirrors Eric’s board)
+- □ Detail cars (mirrors Eric’s board)
+- □ Flush hot water heater (mirrors Eric’s board)
 
 ## Future Events
 - **Tue Feb 24 @ 6:15 PM — Shuffleboard:** both PLAYING (Jess court 1, Eric court 1)
