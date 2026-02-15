@@ -6,6 +6,7 @@ _Last updated: 2026-02-14 21:32 CST_
 - □ Fix door hinges
 - □ Improve guest bathroom threshold
 - □ Install hotel-style partial open door latch on the front door
+- □ Tile guest bathroom backsplash
 
 > These items are still tracked on Eric’s main DopaBot board for scheduling and status. Update either list, and I’ll mirror the change.
 
